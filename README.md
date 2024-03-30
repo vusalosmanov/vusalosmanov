@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vusal Osmanov</h1>
 <h3 align="center">I am working as Front End Developer</h3>
 
+<hr>
+
 <h1 align="center">💫About me:</h1>
 
 <div align="center">
@@ -15,6 +17,8 @@
 
  📫 How to reach me **vusal.osamanov66@gmail.com**
 </div>
+
+<hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
